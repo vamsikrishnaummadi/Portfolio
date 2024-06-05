@@ -1,4 +1,5 @@
 import React from 'react'
+<<<<<<< HEAD
 import MagicButton from './ui/MagicButton'
 import { FaLocationArrow } from 'react-icons/fa'
 import { socialMedia } from '@/data'
@@ -44,6 +45,12 @@ const Footer = () => {
             </div>
          </div>
     </footer>
+=======
+
+const Footer = () => {
+  return (
+    <div>Footer</div>
+>>>>>>> 8456e75 (my Approach Section)
   )
 }
 
