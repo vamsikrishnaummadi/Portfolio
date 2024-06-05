@@ -8,10 +8,7 @@ import { navItems } from "@/data";
 import Image from "next/image";
 import {FaHome} from "react-icons/fa";
 import Approach from "@/components/Approach";
-<<<<<<< HEAD
 import Footer from "@/components/Footer";
-=======
->>>>>>> 8456e75 (my Approach Section)
 
 export default function Home() {
   return (
@@ -24,10 +21,7 @@ export default function Home() {
         <Clients />
         <Experience />
         <Approach />
-<<<<<<< HEAD
         <Footer />
-=======
->>>>>>> 8456e75 (my Approach Section)
       </div>
     </main>
   );
